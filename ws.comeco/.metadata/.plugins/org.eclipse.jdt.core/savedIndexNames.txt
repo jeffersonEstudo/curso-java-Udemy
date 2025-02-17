@@ -1,0 +1,6 @@
+INDEX VERSION 1.134+C:\Users\Jefferson O Amorim\Documents\eclipse-jee-2023-06-R-win32-x86_64\ws.comeco\.metadata\.plugins\org.eclipse.jdt.core
+3510846143.index
+2497617656.index
+3507255536.index
+1865797976.index
+591889177.index

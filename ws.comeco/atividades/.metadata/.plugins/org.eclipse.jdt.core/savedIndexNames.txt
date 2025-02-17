@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+C:\Users\Jefferson O Amorim\Documents\eclipse-jee-2023-06-R-win32-x86_64\ws.comeco\atividades\.metadata\.plugins\org.eclipse.jdt.core
